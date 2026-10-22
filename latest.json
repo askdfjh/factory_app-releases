@@ -1,10 +1,10 @@
 {
-  "version": "1.3.5",
-  "build": 25,
-  "notes": "记工优化：切日期不再转圈、右箭头可切回今天、历史日期锁定不可改删。",
+  "version": "1.3.6",
+  "build": 26,
+  "notes": "更新源改走工厂局域网(Caddy :8093)，内网秒下不碰外网；记工切日期/权限优化。装上此版后自动更新即走内网。",
   "force": false,
-  "url": "https://github.com/askdfjh/factory_app-releases/releases/download/v1.3.5/factory_app-win-x64-1.3.5.zip",
-  "fileName": "factory_app-win-x64-1.3.5.zip",
+  "url": "https://github.com/askdfjh/factory_app-releases/releases/download/v1.3.6/factory_app-win-x64-1.3.6.zip",
+  "fileName": "factory_app-win-x64-1.3.6.zip",
   "sizeMB": 13.5,
   "pubDate": "2026-10-22"
 }
